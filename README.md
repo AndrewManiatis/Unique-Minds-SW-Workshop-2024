@@ -7,7 +7,7 @@ Unique Minds is a Non-Profit Organization driven by student volunteers, committe
 - **Date:** April 20, 2024
 - **Organizer:** Unique Minds
 - **Event:** UNIque Days
-- **Location:** NTUA
+- **Location:** *[National Technical University of Athens](https://maps.app.goo.gl/9MQRV2yeuz4BXVYw8)*
 
 | Name                                | Εmail                        |
 | ----------------------------------  | ---------------------------- |
